@@ -1,0 +1,7 @@
+EXP_3/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+Exp_5/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+Exp_13/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*-idx3-ubyte filter=lfs diff=lfs merge=lfs -text
+*-idx1-ubyte filter=lfs diff=lfs merge=lfs -text

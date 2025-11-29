@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/AnuragPandey19/Deep_Learning_Lab_AnuragPandey.git
+	fetch = +refs/*:refs/*
+	mirror = true
